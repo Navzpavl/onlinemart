@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "296118721573",
+    "firebase_url": "https://online-mart-b577b.firebaseio.com",
+    "project_id": "online-mart-b577b",
+    "storage_bucket": "online-mart-b577b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296118721573:android:7a62168f2d6a4a26ad73cc",
+        "android_client_info": {
+          "package_name": "com.navas.onlinemart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296118721573-1he14njhfn52qag4vnifg6c3fii4j7bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy1AKH28k1VnaM9Qi9jejooDUMxOMEZN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296118721573-1he14njhfn52qag4vnifg6c3fii4j7bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
